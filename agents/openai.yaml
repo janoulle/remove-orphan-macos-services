@@ -1,0 +1,4 @@
+interface:
+  display_name: "Remove Orphan macOS Services"
+  short_description: "Safely remove verified orphan launchd services"
+  default_prompt: "Use $remove-orphan-macos-services to audit and safely remove verified orphaned macOS background services."
